@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/MyContent/Input/IA_Move.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/MyContent/Input/IA_Action.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/MyContent/Input/IMC_Move.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/MyContent/GameManager/GM_Labyrinthe.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/GameManager/GM_Labyrinthe.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Input/IMC_Move.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Input/IA_Action.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Input/IA_Move.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Input/IMC_Action.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/GameManager/PC_Game.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Blueprint/BP_Lever.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Blueprint/BP_Character.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Input/IMC_Mouse.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Input/IA_Orbit.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Blueprint/BP_PassageSecret.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Blueprint/BP_Piege.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/Le_Labyrinthe/Blueprints/BP_Collision.uasset",
+				"C:/Users/moust/Downloads/Labyrinthe-main/Labyrinthe-main/Content/GameObject/Input/IA_Use.uasset"
+			]
+		}
+	]
+}
